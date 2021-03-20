@@ -1,0 +1,26 @@
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\GCF assignment\bin\Debug\netcoreapp3.1\GCF assignment.exe
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\GCF assignment\bin\Debug\netcoreapp3.1\GCF assignment.deps.json
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\GCF assignment\bin\Debug\netcoreapp3.1\GCF assignment.runtimeconfig.json
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\GCF assignment\bin\Debug\netcoreapp3.1\GCF assignment.runtimeconfig.dev.json
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\GCF assignment\bin\Debug\netcoreapp3.1\GCF assignment.dll
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\GCF assignment\bin\Debug\netcoreapp3.1\GCF assignment.pdb
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\GCF assignment\obj\Debug\netcoreapp3.1\GCF assignment.csprojAssemblyReference.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\GCF assignment\obj\Debug\netcoreapp3.1\GCF assignment.AssemblyInfoInputs.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\GCF assignment\obj\Debug\netcoreapp3.1\GCF assignment.AssemblyInfo.cs
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\GCF assignment\obj\Debug\netcoreapp3.1\GCF assignment.csproj.CoreCompileInputs.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\GCF assignment\obj\Debug\netcoreapp3.1\GCF assignment.dll
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\GCF assignment\obj\Debug\netcoreapp3.1\GCF assignment.pdb
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\GCF assignment\obj\Debug\netcoreapp3.1\GCF assignment.genruntimeconfig.cache
+E:\Github stuff - Do not delete (homework is in here)\GCF\GCF assignment\bin\Debug\netcoreapp3.1\GCF assignment.exe
+E:\Github stuff - Do not delete (homework is in here)\GCF\GCF assignment\bin\Debug\netcoreapp3.1\GCF assignment.deps.json
+E:\Github stuff - Do not delete (homework is in here)\GCF\GCF assignment\bin\Debug\netcoreapp3.1\GCF assignment.runtimeconfig.json
+E:\Github stuff - Do not delete (homework is in here)\GCF\GCF assignment\bin\Debug\netcoreapp3.1\GCF assignment.runtimeconfig.dev.json
+E:\Github stuff - Do not delete (homework is in here)\GCF\GCF assignment\bin\Debug\netcoreapp3.1\GCF assignment.dll
+E:\Github stuff - Do not delete (homework is in here)\GCF\GCF assignment\bin\Debug\netcoreapp3.1\GCF assignment.pdb
+E:\Github stuff - Do not delete (homework is in here)\GCF\GCF assignment\obj\Debug\netcoreapp3.1\GCF assignment.csprojAssemblyReference.cache
+E:\Github stuff - Do not delete (homework is in here)\GCF\GCF assignment\obj\Debug\netcoreapp3.1\GCF assignment.AssemblyInfoInputs.cache
+E:\Github stuff - Do not delete (homework is in here)\GCF\GCF assignment\obj\Debug\netcoreapp3.1\GCF assignment.AssemblyInfo.cs
+E:\Github stuff - Do not delete (homework is in here)\GCF\GCF assignment\obj\Debug\netcoreapp3.1\GCF assignment.csproj.CoreCompileInputs.cache
+E:\Github stuff - Do not delete (homework is in here)\GCF\GCF assignment\obj\Debug\netcoreapp3.1\GCF assignment.dll
+E:\Github stuff - Do not delete (homework is in here)\GCF\GCF assignment\obj\Debug\netcoreapp3.1\GCF assignment.pdb
+E:\Github stuff - Do not delete (homework is in here)\GCF\GCF assignment\obj\Debug\netcoreapp3.1\GCF assignment.genruntimeconfig.cache
